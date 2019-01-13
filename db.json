@@ -6,7 +6,8 @@
       "title": "Baby Doll",
       "description": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
       "price": 10,
-      "status": "available"
+      "status": "sold out",
+      "thumbnailUrl": "https://via.placeholder.com/150/92c952"
     },
     {
       "colabId" : 1,
@@ -14,7 +15,9 @@
       "title": "Teddy Bear",
       "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
       "price": 30,
-      "status": "available"
+      "status": "available",
+      "thumbnailUrl": "https://via.placeholder.com/150/771796"
+
     },
     {
       "colabId" : 1,
@@ -22,7 +25,8 @@
       "title": "T Rex",
       "description": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
       "price": 20,
-      "status": "available"
+      "status": "available",
+      "thumbnailUrl": "https://via.placeholder.com/150/24f355"
     },
     {
       "colabId" : 2,
@@ -30,21 +34,24 @@
       "title": "Exercitationem repellat",
       "description": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
       "price": 20,
-      "status": "sold out"
+      "status": "sold out",
+      "thumbnailUrl": "https://via.placeholder.com/150/d32776"
     },{
       "colabId" : 3,
       "id": 5,
       "title": "Fast Car",
       "description": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
       "price": 20,
-      "status": "sold out"
+      "status": "sold out",
+      "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
     },{
       "colabId" : 3,
       "id": 6,
       "title": "Yellow Boat",
       "description": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
       "price": 20,
-      "status": "sold out"
+      "status": "available",
+      "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
     }
   ],
   "profile": {
