@@ -7,6 +7,7 @@
       "description": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
       "price": 10,
       "status": "sold out",
+      "quantity": 0,
       "thumbnailUrl": "https://via.placeholder.com/300/92c952"
     },
     {
@@ -16,6 +17,7 @@
       "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
       "price": 30,
       "status": "available",
+      "quantity": 5,
       "thumbnailUrl": "https://via.placeholder.com/300/771796"
 
     },
@@ -26,6 +28,7 @@
       "description": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
       "price": 20,
       "status": "available",
+      "quantity": 10,
       "thumbnailUrl": "https://via.placeholder.com/300/24f355"
     },
     {
@@ -35,6 +38,7 @@
       "description": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
       "price": 20,
       "status": "sold out",
+      "quantity": 0,
       "thumbnailUrl": "https://via.placeholder.com/300/d32776"
     },{
       "colabId" : 3,
@@ -43,6 +47,7 @@
       "description": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
       "price": 20,
       "status": "sold out",
+      "quantity": 0,
       "thumbnailUrl": "https://via.placeholder.com/300/f66b97"
     },{
       "colabId" : 3,
@@ -51,6 +56,7 @@
       "description": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
       "price": 20,
       "status": "available",
+      "quantity": 20,
       "thumbnailUrl": "https://via.placeholder.com/300/56a8c2"
     }
   ],
